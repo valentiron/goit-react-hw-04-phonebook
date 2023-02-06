@@ -1,0 +1,8 @@
+.item {
+    display: flex;
+    gap: 12px;
+}
+
+.item button {
+    margin-left: auto;
+}

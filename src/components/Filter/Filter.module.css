@@ -1,0 +1,5 @@
+.filter input{
+    display: flex;
+    width: 160px;
+    margin-top: 12px;
+  }
