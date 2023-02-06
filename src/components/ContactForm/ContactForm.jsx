@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import PropTypes from 'prop-types';
 import css from './ContactForm.module.css';
-import { resetWarningCache } from 'prop-types';
 
 export default function ContactForm({ onSubmit }) {
   const [name, isName] = useState('');
